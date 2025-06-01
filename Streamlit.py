@@ -14,10 +14,10 @@ st.title("🌾 Crop Production Prediction")
 encoders = load("model/encoder.joblib")
 
 # Load random_Forest_regressor_model
-rfr = load("C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project3/Crop_Production_Prediction/model/random_Forest_regressor_model.joblib")
+rfr = load("model/random_Forest_regressor_model.joblib")
 
 # Load linear_regression_model
-lrr = load("C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project3/Crop_Production_Prediction/model/linear_model.joblib")
+lrr = load("model/linear_model.joblib")
 
 
 
