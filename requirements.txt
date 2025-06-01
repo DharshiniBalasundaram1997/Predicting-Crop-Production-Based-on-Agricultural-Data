@@ -1,0 +1,12 @@
+psycopg2-binary
+streamlit
+pandas
+toml
+nbformat
+nbconvert
+openpyxl
+matplotlib
+plotly
+seaborn
+numpy
+scikit-learn
