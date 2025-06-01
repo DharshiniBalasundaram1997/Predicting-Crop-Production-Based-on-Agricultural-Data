@@ -91,12 +91,12 @@ Agriculture is vital to the economy. Accurate crop production forecasts are esse
 
 ## ✨ Demo & Usage
 
-1. Fetch the uncleaned dataset (in `.xlsx` format) and perform data cleaning.  
-2. Execute `Data_Transformation_Cleaning_Preprocessing_Handling.ipynb` and `Crop_Production_EDA.ipynb`.  
-3. Execute `Crop_Production_Model.ipynb` containing two models:  
-   - Linear Regression  
-   - Random Forest Regressor  
-4. Run `Streamlit.py` to check live predictions.
+    1. Fetch the uncleaned dataset (in `.xlsx` format) and perform data cleaning.  
+    2. Execute `Data_Transformation_Cleaning_Preprocessing_Handling.ipynb` and `Crop_Production_EDA.ipynb`.  
+    3. Execute `Crop_Production_Model.ipynb` containing two models:  
+       - Linear Regression  
+       - Random Forest Regressor  
+    4. Run `Streamlit.py` to check live predictions.
 
 
 ##  PowerBi Report
