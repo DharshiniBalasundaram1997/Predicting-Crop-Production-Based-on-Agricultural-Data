@@ -101,4 +101,5 @@ Agriculture is vital to the economy. Accurate crop production forecasts are esse
 
 ##  PowerBi Report: 
 [https://app.powerbi.com/view?r=eyJrIjoiNDJmYjk2MTAtNWE2Yi00N2EwLWIzYTItNzJjOGUyY2UyNzZlIiwidCI6IjczY2UwZTg5LWRjMzUtNGExMC04NTMxLTFjYzJmMTgxNTUyZCJ9&embedImagePlaceholder=true](https://app.powerbi.com/view?r=eyJrIjoiNDJmYjk2MTAtNWE2Yi00N2EwLWIzYTItNzJjOGUyY2UyNzZlIiwidCI6IjczY2UwZTg5LWRjMzUtNGExMC04NTMxLTFjYzJmMTgxNTUyZCJ9&embedImagePlaceholder=true)
+
 **Streamlit Web App:** [https://predicting-crop-given-based-on-agricultural-data.streamlit.app/](https://predicting-crop-given-based-on-agricultural-data.streamlit.app/)
