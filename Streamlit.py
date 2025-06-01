@@ -11,7 +11,7 @@ st.title("🌾 Crop Production Prediction")
 
 
 # Load encoders
-encoders = load("C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project3/Crop_Production_Prediction/model/encoder.joblib")
+encoders = load("model/encoder.joblib")
 
 # Load random_Forest_regressor_model
 rfr = load("C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project3/Crop_Production_Prediction/model/random_Forest_regressor_model.joblib")
