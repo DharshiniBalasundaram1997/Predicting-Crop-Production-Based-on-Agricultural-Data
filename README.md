@@ -83,8 +83,8 @@ Agriculture is vital to the economy. Accurate crop production forecasts are esse
 - 🔄 **Data Preprocessing**
 - 📊 **Exploratory Data Analysis (EDA)**
 - 📈 **Data Visualization** (Matplotlib, Plotly, Power BI)
-- Machine Learning (Regression)
-- Streamlit App Development
+- **Machine Learning (Regression)**
+- **Streamlit App Development**
 
 ---
 
